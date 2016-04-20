@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corporishaerese05oehlgoog_0014.png"; bbox 0 0 3166 5044; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 445 1573 1004 1708">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 445 1573 1004 1708">
+     <span class='ocr_line' id='line_1_1' title="bbox 445 1573 1004 1708; baseline 0 -34"><span class='ocrx_word' id='word_1_1' title='bbox 445 1573 720 1708; x_wconf 63' lang='lat' dir='ltr'><strong>momen</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 752 1573 1004 1675; x_wconf 72' lang='lat' dir='ltr'><strong>rfflvn</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 217 1909 1221 2034">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 217 1909 1221 2034">
+     <span class='ocr_line' id='line_1_2' title="bbox 217 1909 1221 2034; baseline -0.001 -1"><span class='ocrx_word' id='word_1_3' title='bbox 217 1909 1221 2034; x_wconf 85' lang='lat' dir='ltr'><strong>ANIMADVERSIONES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 392 2515 1048 2610">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 392 2515 1048 2610">
+     <span class='ocr_line' id='line_1_3' title="bbox 392 2515 1048 2610; baseline 0.002 -2"><span class='ocrx_word' id='word_1_4' title='bbox 392 2515 696 2610; x_wconf 82' lang='lat' dir='ltr'><strong>EPIPHANII</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 724 2515 1048 2610; x_wconf 84' lang='lat' dir='ltr'><strong>PANARIUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 623 2947 824 2962">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 623 2947 824 2962">
+     <span class='ocr_line' id='line_1_4' title="bbox 623 2947 824 2962; baseline -0.01 0"><span class='ocrx_word' id='word_1_6' title='bbox 623 2947 824 2962; x_wconf 59' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1588 5044">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1588 5044">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1588 5044; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1588 5044; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
